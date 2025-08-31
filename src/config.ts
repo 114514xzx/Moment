@@ -81,10 +81,10 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "Beautiful Mizuki!", // 主页横幅主标题
+			title: "Moment's World", // 主页横幅主标题
 
 			subtitle: [
-				"A Showcase Demo Site",
+				"A Demo Site",
 				"Carousel Highlight: Innovation",
 				"Carousel Focus: User Experience",
 				"Carousel Spot: Core Advantages",
@@ -229,13 +229,13 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.gif", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "Mizuki",
-	bio: "世界很大,一定要去看看",
+	name: "Moments",
+	bio: "苦难能使人强大，但大部分人不堪折磨",
 	links: [
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://space.bilibili.com/472411383",
 		},
 		{
 			name: "Gitee",
