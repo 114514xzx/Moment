@@ -90,6 +90,14 @@ const localPlaylist = [
 		url: "assets/music/url/cl.mp3",
 		duration: 200,
 	},
+	{
+		id: 4,
+		title: "萤火之森",
+		artist: "CMJ",
+		cover: "assets/music/cover/yhzs.jpg",
+		url: "assets/music/url/yhzs.mp3",
+		duration: 152,
+	},
 ];
 
 async function fetchMetingPlaylist() {
